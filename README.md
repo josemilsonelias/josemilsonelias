@@ -2,8 +2,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEzwReyx-dRX69ykcFVF92g)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cell_gamedev/)
-[![Linkedin]([[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemilson-elias-986398214/](https://www.linkedin.com/in/josemilson-elias-377a7b299/](https://www.linkedin.com/in/josemilson-elias-377a7b299/)))
-[![Linkedin]([https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cell_gamedev](https://www.linkedin.com/in/josemilson-elias-377a7b299/))
+[![Linkedin]([[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ![JosemilsonElias GitHub stats](https://github-readme-stats.vercel.app/api?username=josemilsonelias&show_icons=true&theme=radical)
 
